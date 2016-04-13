@@ -84,10 +84,10 @@ Weiter bei ([3]).
 >Die Söldner fackeln nicht lange, sondern gehen mit ihren Langschwertern
 >auf Dich los. Ein heftiger Kampf entbrennt.
 
-### Söldner 1
+Söldner 1:
 AC 17, HD 1, HP 6, Schaden 1d8
 
-### Söldner 2
+Söldner 2:
 AC 16, HD 1, HP 4, Schaden 1d8
 
 Falls Du unterliegst werden Die Söldner Dich nicht töten, sondern von
@@ -149,4 +149,111 @@ Bei jedem erfolglosen Versuch verlierst Du einen HP
 ... die Ratten freuen sich schon.
 
 
+##12
+>Mit weichen Knien bist Du der Grube entkommen.
+
+Du kannst jetzt:
+
+- in den Raum mit den vier Säulen zurück ([3])
+
+- an der Fallgrube vorbei in die andere Richtung ([10])
+
+
+##13
+>Du kommst in einen etwas kleineren Raum mit zwei Säulen. An der
+>gegenüberliegenden Wand siehst Du eine Statue, die eine Art
+>Echsen-Gottheit darzustellen scheint.
+>
+>Vor allem aber siehst Du in dem Raum drei Goblins, die nicht weniger
+>überrascht zu sein scheinen, als Du es selbst bist.
+
 ![](Bilder/goblin.png)
+
+- Du ziehst Dich zurück ([33])
+
+- Du machst Deine Waffe bereit ([15])
+
+##14
+>Du bist in einem etwas kleineren Raum mit zwei Säulen. An der
+>gegenüberliegenden Wand siehst Du eine Statue, die eine Art
+>Echsen-Gottheit darzustellen scheint.
+>
+>Als Du Dir den Raum näher ansiehst siehst Du zahlreiche Spuren von
+>Goblin-Füßen am Boden. Auf dem Sockel der Echsen-Statue findest Du 5
+>gp, 13 sp und einen kleine Beutel mit Heilkräutern.
+>
+>Nachdem Du dich in dem Raum genug umgesehen hast, gehst Du zurück in
+>den Raum mit den vier Säulen ([3]).
+
+##15
+>Da die Goblins sich offensichtlich von Dir bedroht fühlen, ziehen Sie
+>ihre Schwerter und stellen sich Dir im Kampf.
+
+Goblin 1: 
+AC 14, HP 3, Schaden 1d6
+
+Goblin 2:
+AC 14, HP 7, Schaden 1d6
+
+Goblin 3:
+AC 14, HP 4, Schaden 1d6
+
+Falls deine HP auf 2 oder weniger sinken, lies weiter bei ([16])
+
+Falls du mindestens zwei der Goblins einen Schaden zufügst, lies
+weiter bei ([17]).
+
+##16
+>Du bist schwer verletzt, aber die Goblins trachten Dir nicht nach dem
+>Leben. Viel mehr scheinen Sie Wert darauf zulegen, nun einfach
+>schnell hier zu verschwinden. Als Du etwas taumelst stoßen Sie dich
+>zu Boden, und nutzen die Gelegenheit, sich schnell aus dem Staub zu
+>machen. Erschöpft bleibst Du am Boden liegen. Erst nach einiger Zeit
+>kommst Du wieder zu Dir, und beginnst, Dich in diesem Raum um zu sehen. 
+
+Weiter bei ([14]).
+
+##17
+>Nach dem Du Dich offensichtlich ernsthaft zur Wehr setzt, überlegen
+>die Goblins es sich anders und fliehen in Panik, immerhin schaffen Sie
+>es sogar noch, ihren am schwersten verletzten Kammeraden vor Dir in
+>Sicherheit zu bringen. Du bleibst etwas verdutzt alleine in diesem
+>Raum zurück.
+
+Weiter bei ([14]).
+
+##18
+>Du kommst in einen etwas kleineren Raum mit zwei Säulen. An der Wand
+>gegenüber der Doppeltür steht einen Statue, die eine Echsen-Gottheit
+>darzustellen scheint. Als Du näher tritts, erkennst Du, wie die Statue
+>beginnt zu leuchten. Auch die kleine Echsenfigur, die Du bei dem
+>Schatz gefunden hast, scheint plötzlich mit einem eigenartigen Schimmer
+>zu strahlen.
+
+>Du bleibst stehen, als das Leuchten der Statue immer stärker
+>wird. Gleichzeitig ist plötzlich auch ein selbstsames Summen zu
+>hören. Mit dem Geräusch einer kleinen Explosion bildet sich im Raum
+>genau vor Dir schließlich eine ganze Wand aus bläulich schimmerndem
+>Licht - ein Portal, wie es scheint.
+
+- Du machst einen mutigen Schritt und gehst durch das Portal ([19]).
+
+- Dieses Lichtspektakel ist Dir nicht geheuer. Daher gehst Du lieber
+wieder zuück in den Raum mit den vier Säulen ([3]).
+
+
+##19
+>Um dich herum ist für einige Momente alles Licht und Farbe. Unmöglich
+>zu sagen, wie lange dieser Zustand genau anhält. Schließlich hast Du
+>das Gefühl zu stolpern. Mit einem Mal ist das bunte Licht um Dich
+>herum verschwunden.
+
+>Du kniest auf morastigem Boden. Um Dich herum ist alles voller
+>Pflanzen und Gestrüpp. Dicht vor Dir überquert gerade ein wurmartiges
+>Insekt so groß wie Dein Unterarm und mit sehr vielen Beinen die kleine
+>Lichtung auf der Du gelandet bist.
+
+>Aus einiger Entfernung hörst Du Rufe, die Dich entfernt an große Vögel
+>erinnern, außerdem hörst Du ein sehr tiefes anhaltendes Knurren ...
+
+(die Fortsetzung folgt in einer anderen Dimension, zu einer anderen Zeit)
