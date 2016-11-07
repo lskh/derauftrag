@@ -257,3 +257,112 @@ wieder zuück in den Raum mit den vier Säulen ([3]).
 >erinnern, außerdem hörst Du ein sehr tiefes anhaltendes Knurren ...
 
 (die Fortsetzung folgt in einer anderen Dimension, zu einer anderen Zeit)
+
+##20
+Du kannst den Raum weiter durchsuchen ([21]), oder zurück in den
+Verbindungsgang gehen ([10]).
+
+##21
+Um den Raum zu durchsuchen würfel einen d6. Bei 1 oder 2 geht es weiter 
+bei ([26]), sonst weiter bei ([20]).
+
+##22
+Wenn Du den Schatz gefunden hast, ziehe deines Weges und schreibe Dir 
+1000 XP an. Falls Du noch keinen Schatz gefunden hast, oder es Dir noch 
+nicht genug ist, gehe wieder die Treppe runter zu ([4]).
+
+##23
+Bevor Du begreifen kannst, was überhaupt vor sich geht, spürst Du einen 
+letzten heftigen Schlag in der Brust, dann wird alles dunkel.
+
+Künftig wirst Du selbst als Skelett diese Schatzkammer verteidigen.
+
+##24
+Würfle eine Probe auf "Save Poison/Death Ray".
+
+wenn du verlierst geht es weiter bei ([23]), wenn du Glück hast geht es
+weiter bei ([31]).
+
+##25
+Du hast die Sicherung erkannt, und es gelingt Dir den Mechanismus zu 
+entschärfen. Du öffnest die Schatztruhe. Weiter bei ([28]).
+
+##26
+In der Nordwand entdeckst Du einige Spalten in der Wand, die aussehen, 
+als sei hier eine Geheime Tür. 
+
+Du kannst Versuchen die Geheimtür zu öffnen ([30]), 
+
+oder du gehst zurück in den Gang ([10]).
+
+##27
+Die Skelette sind klappernd vor Dir zusammen gebrochen. Du kannst jetzt
+zurück in den letzten Raum gehen ([9]), oder du kannst versuchen die 
+Schatztruhe zu öffnen ([28]).
+
+##28
+um die Schatztruhe zu öffnen würfle einen d6. Bei 1 oder zwei weiter bei 
+([31]). Sonst weiter bei ([24]).
+
+##29
+Kaum betrittst Du den kleinen Raum, greifen dich ohne Umschweife zwei Skelette 
+an. Sie wurden hier als Wachen
+postiert, und kämpfen bis zum Tode, wenn man das bei Skeletten 
+überhaupt so nennen kann. Die Skelette haben folgende Werte:
+
+Skelett 1: 
+AC 13, HP 6, Schaden 1d6 
+
+Skelett 2:
+AC 13, HP 4, Schaden 1d6
+
+![](Bilder/skeleton.png)
+
+Wenn Du es schaffst die Skelelette zu zerstören geht es weiter bei ([28]).
+Wenn Du verlierst geht es weiter bei ([23]).
+
+##30
+Ohne große Probleme öffnet sich die Geheimtür. Manchmal kann es wirklich so 
+einfach sein. Dahinter eröffnet sich Dir ein Raum, bei dem es sich nur um 
+die Schatzkammer handeln kann.
+
+Du gehst mit freudiger Vorahnung in die Schatzkamme ([29]), oder zurück in 
+den Gang ([10]).
+ 
+##31
+In der Truhe findest Du den ersehnten Schatz. Er besteht aus 31 gp, 56 sp, 
+und einer mit Edelsteinen besetzten Goldkette im Wert von 120 gp. Außerdem
+liegt in der Truhe eine kleine Echsenfigur aus dunklem Stein.
+
+Nachdem Du das Silber, das Gold und die Kette eingepackt hast, überlegst Du 
+ob Du die Echsenfigur auch mitnehmen sollst. Entscheide weise!
+
+Danach gehst Du wieder in den Vorraum der Schatzkammer ([9]).
+
+##32
+Die Söldner ziehen ihre Waffen und drängen Dich zurück zum Eingang.
+
+Du gehst die Treppe hinunter ([4]),
+
+Du greifst die Söldner an ([6]).
+
+##33
+Zögernd ziehst Du Dich in den Raum mit den vier Säulen zurück. Die Goblins 
+schlagen die Doppeltür zu, und du hörst noch kurz ihre Stimmen.
+
+Falls Du nun doch wieder durch die Doppeltür willst geht es weiter bei ([15]).
+Sonst weiter bei ([3]).
+
+##34
+Verwundet, erschöpft, mittellos und entwaffnet erwachst Du in einer
+Waldlichtung. Du weißt nicht mal, wo Du überhaupt bist. Immerhin darfst 
+du dir zum Trost 500 XP anschreiben.
+
+##35
+Falls Du die Söldner schon besiegt hast geht es weiter bei ([22]). Falls
+nicht, gehe zu ([32]).
+
+##36
+Falls Du hier noch keinen Goblins begegnet bist geht es weiter bei ([13]),
+ansonsten lies weiter bei ([14]).
+ 
