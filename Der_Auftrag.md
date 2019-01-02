@@ -1,7 +1,7 @@
 %Der Auftrag
 %Laurens Kils-Hütten
 
-#Einleitung
+# Einleitung
 >Von anderen Reisenden und Abenteurern hattet Ihr schon von den
 >Gerüchten erfahren. In den Kellergewölben der alten Ruine an der
 >Landstraße zwischen Seestadt und Steintal, sollte es einen Schatz
@@ -17,7 +17,7 @@
 >
 >Freundlicher Weise stellte Euch der Graf zur Begleitung zur Ruine noch ein paar Söldner >zur Seite.
 
-##Die Söldner
+## Die Söldner
 Es handelt sich immer um doppelt so viele Söldner wie Abenteurer. Die Söldner haben folgende Werte (Anführer Kämpfer Stufe 2, alle anderen Kämpfer Stufe 1, Hellebarden, Plattenrüstungen).
 
 Söldner 1:
@@ -30,13 +30,13 @@ Die Söldner haben Tatsächlich die Aufgabe den Schatz komplett dem Grafen zu br
 
 Da der Graf wiederum den Söldnern einen ordentlichen Zusatzlohn versprochen hat, sollte der Schatz zu ihm gebracht werden, werden die Söldner den Helden deutlich machen, dass Sie nicht einfach abhauen können, sollten Sie es sich unterwegs anders überlegen.
 
-#Der Eingang
+# Der Eingang
 >Die Treppe führt steil herunter in einen Raum der vielleicht 3 Meter
 >unter der Erde liegt. Bei jedem Schritt wird der Moder-Geruch
 >deutlicher, der Dir entgegen kommt. Ein unheilmliches Gefühl
 >beschleicht Dich.
 
-#Der Raum mit den vier Säulen
+# Der Raum mit den vier Säulen
 >Du kommst in einen großen Raum von etwa 10 x 10 Metern Grundfläche. In
 >der Mitte des Raumes stehen vier Säulen in quadratischer Anordnung.
 
@@ -44,7 +44,7 @@ Da der Graf wiederum den Söldnern einen ordentlichen Zusatzlohn versprochen hat
 >Tür. In südlicher Richtung kannst Du eine Öffnung in der Wand
 >erkennen, die in einen Gang mündet.
 
-#Das Goblin-Lager
+# Das Goblin-Lager
 >Du kommst in einen etwas kleineren Raum mit zwei Säulen. An der
 >gegenüberliegenden Wand siehst Du eine Statue, die eine Art
 >Echsen-Gottheit darzustellen scheint.
